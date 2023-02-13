@@ -10,7 +10,7 @@ html{
 
                                    /* ------> Main Header Section <--------- */
 #upper-body {
-    height: 150vh;
+    height: 180vh;
     width: 100%;
     background-color: #161616;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 87%, 0 100%);
@@ -246,7 +246,7 @@ html{
 }
                                    /* ------> Services <--------- */
 #services{
-    height: 150vh;
+    height: 180vh;
     width: 100%;
     background-color: #f2f2f2;
 }
@@ -358,6 +358,7 @@ html{
     background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.6)),url(./image/camera.png);
     background-color: rgba(0,0,0,0.5);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 85%, 0 100%);
+    /* margin-top: 8rem; */
 }
 #banner .primary-text{
     font-family: 'Poppins', sans-serif;
@@ -393,7 +394,7 @@ html{
 }
                                    /* ------> Footer <--------- */
 #footer{
-    height: 150vh;
+    height: 180vh;
     width: 100%;
     margin-top: 9rem;
 }
@@ -570,7 +571,7 @@ html{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    height: 50vh;
     width: 100%;
     background-color: #161616;
 }
